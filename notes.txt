@@ -1,0 +1,16 @@
+What is React.fragment??
+
+React.fragment is a component which is exported by React
+
+What is hooks ?
+Hooks is just a normal function. just like normal function
+
+What is useState hooks?
+useState hooks is used to create local state variables 
+useState hooks returns an array, array has the first Items has variable name 
+
+If we have a local variable then why we need state variable?
+
+Suppose we have a local variable a= 10  and some other component change that local variable 
+react will not know i get changed so react keeps a track of each state variable and whenever i am updating that state variable it will automatically re-render my component 
+ 
